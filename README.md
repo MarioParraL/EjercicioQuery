@@ -8,3 +8,6 @@ Crear las queries y resolvers necesarios para poder ver la lista de todas las ma
 Se debe entregar:
 Enlace a release de github.
 Enlace a deno deploy
+
+# Deno deploy: 
+bright-butterfly-69.deno.dev
